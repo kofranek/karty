@@ -11,3 +11,9 @@ git branch
 git status soubor
 git diff
 git diff soubor
+
+
+pull request
+
+git pull origin master
+
