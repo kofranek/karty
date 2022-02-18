@@ -11,3 +11,25 @@ git branch
 git status soubor
 git diff
 git diff soubor
+soubor .gitignore
+
+git status
+git add .
+git commit -m "popis"
+git log /git log --oneline
+git push [rep_link] [branch_name]
+
+git branch
+
+masterdevelop
+feature/main-page
+feature/about-company
+
+git branch develop
+git checkout develop
+git checkout master
+
+git push origin develop
+
+
+
