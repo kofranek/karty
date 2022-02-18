@@ -31,5 +31,5 @@ git checkout master
 
 git push origin develop
 
-
+pullrequest (v githubu)
 
